@@ -38,9 +38,9 @@ export function WelcomeLanding() {
             className="animate-slide-in-left font-hero text-5xl sm:text-6xl md:text-7xl lg:text-8xl leading-[0.95] tracking-tight text-white"
             style={{ animationDelay: '0.25s' }}
           >
-            Your AI{' '}
+            welcom to the{' '}
             <span className="text-[#00e5ff]">
-              Assistant
+              new app
             </span>
           </h1>
 
